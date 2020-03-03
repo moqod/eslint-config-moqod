@@ -1,0 +1,15 @@
+{
+  "name": "eslint-config-moqod",
+  "version": "0.1.0",
+  "description": "Shareable configuration for ESLint",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "eslint",
+    "moqod"
+  ],
+  "author": "Anton Pchelkin <pchelkin@moqod.com>",
+  "license": "ISC"
+}
