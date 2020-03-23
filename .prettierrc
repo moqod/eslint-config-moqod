@@ -1,6 +1,10 @@
 {
+  "semi": true,
   "singleQuote": true,
   "trailingComma": "all",
   "arrowParens": "always",
-  "parser": "typescript"
+  "parser": "vue",
+  "jsxBracketSameLine": false,
+  "bracketSpacing": true,
+  "tabWidth": 2
 }
